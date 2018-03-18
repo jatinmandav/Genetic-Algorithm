@@ -21,3 +21,7 @@ Generation over generation, the population gets “smarter” and “more close 
   <p align="center"> <img src="Evolving-Image-Pattern/evolving-image-pattern-demo.gif"/> </p>
   
   - [Explorers](Explorers/) Demo on YouTube: [Explorers Using Genetic Algorithm](https://www.youtube.com/watch?v=0AhEp3LAq1Q&t=0s)
+  - [Shakespeare-Monkey Problem](Shakespeare-MonkeyProblem/) Here is a small demo:
+  
+  <p align="center"> <img src="shakespeare-monkey-demo.gif"/> </p>
+  
