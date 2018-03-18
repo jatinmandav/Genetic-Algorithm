@@ -1,4 +1,4 @@
-## Shakespera-Monkey Problem
+## Shakespeare-Monkey Problem
 
 # The Problem Statement
 
