@@ -14,6 +14,10 @@ To solve this problem, here are 3 proposed solutions:
   - Brute Force: Randomly generating any path and calculating the distance. Not a fast and ideal solution
   - Lexicographic Order: Checking all the possible routes possible. Good for small number of "cities".
   - Genetic Algorithm: Evolves the best and shortest route. Performs better than other algorithms, but with one limitation i.e., one cannot be sure if it is the best solution so far as we do not know the final result to compare with. There may be a chance of improvement!
+
+# Usage
+
+To create points, you can use "create points.py" to generate points, and then using different algorithms, one can find the shortest path and compare the results!
   
 Here is a small demo of TSP in action using Genetic Algorithm
 
