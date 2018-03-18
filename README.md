@@ -14,3 +14,8 @@ In computer science and operations research, a genetic algorithm is a metaheuris
   - **Step 4**: Replacing the old population with new population and the cycle continues!
 
 Generation over generation, the population gets “smarter” and “more close to the desired result”. Mutation rate should be in controlled use, i.e., if mutation rate is too high, it will generate way too much randomness and won’t lead us to the desired result, also if too low, it will not be able to generate required randomness and may lead to create exact copies of all the species in the population.
+
+# Some Examples or Applications of Genetic Algorithm
+  - [Evolving Images or Patterns](Evolving-Image-Pattern/) Here is a small demo: 
+  
+  <p align="center"> <img src="Evolving-Image-Pattern/evolving-image-pattern-demo.gif"/> </p>
