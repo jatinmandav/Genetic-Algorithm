@@ -7,9 +7,9 @@ In computer science and operations research, a genetic algorithm is a metaheuris
   - Step 1: Creating a population. To evolve the required result, you first need a population to start with. The initial population is created with randomly generated DNA.
   - Step 2: Selection of the fittest. From the given population, calculating their fitness based on the fitness function you decide.
   - Step 3: Reproduction and Mutation.
-   - 1. Selecting two parents according to the fitness function i.e., the parent with higher fitness is more likely to be picked than the one with low fitness.
-   - 2. Crossover: creating a child DNA from the two parent DNAs
-   - 3. Mutation: Mutate the child population based on mutation rate.
+     1. Selecting two parents according to the fitness function i.e., the parent with higher fitness is more likely to be picked than the one with low fitness.
+     2. Crossover: creating a child DNA from the two parent DNAs
+     3. Mutation: Mutate the child population based on mutation rate.
 
   - Step 4: Replacing the old population with new population and the cycle continues!
 
