@@ -25,3 +25,7 @@ Generation over generation, the population gets “smarter” and “more close 
   
   <p align="center"> <img src="Shakespeare-MonkeyProblem/shakespeare-monkey-demo.gif"/> </p>
   
+  - [Travelling Salesperson Problem](Travelling-Salesperson-Problem/) Here is a small demo of solving TSP using GA:
+  
+  <p align="center"> <img src="Travelling-Salesperson-Problem/tsp-demo.gif"/> </p>
+  
