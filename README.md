@@ -19,3 +19,5 @@ Generation over generation, the population gets “smarter” and “more close 
   - [Evolving Images or Patterns](Evolving-Image-Pattern/) Here is a small demo: 
   
   <p align="center"> <img src="Evolving-Image-Pattern/evolving-image-pattern-demo.gif"/> </p>
+  
+  - [Explorers](Explorers/) Demo on YouTube: [Explorers Using Genetic Algorithm](https://www.youtube.com/watch?v=0AhEp3LAq1Q&t=0s)
